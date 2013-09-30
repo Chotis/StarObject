@@ -1,0 +1,13 @@
+c:\users\panayiotis\documents\visual studio 2012\Projects\StarObject\StarObject\bin\Debug\StarObject.exe
+c:\users\panayiotis\documents\visual studio 2012\Projects\StarObject\StarObject\bin\Debug\StarObject.pdb
+c:\users\panayiotis\documents\visual studio 2012\Projects\StarObject\StarObject\obj\Debug\StarObject.csprojResolveAssemblyReference.cache
+c:\users\panayiotis\documents\visual studio 2012\Projects\StarObject\StarObject\obj\Debug\StarObject.Properties.Resources.resources
+c:\users\panayiotis\documents\visual studio 2012\Projects\StarObject\StarObject\obj\Debug\StarObject.csproj.GenerateResource.Cache
+c:\users\panayiotis\documents\visual studio 2012\Projects\StarObject\StarObject\obj\Debug\StarObject.exe
+c:\users\panayiotis\documents\visual studio 2012\Projects\StarObject\StarObject\obj\Debug\StarObject.pdb
+c:\users\panayiotis\documents\visual studio 2012\Projects\StarObject\StarObject\obj\Debug\StarObject.frmMain.resources
+C:\Users\Panayiotis\Documents\Visual Studio 2012\Projects\StarObject\StarObject\obj\Debug\StarObject.abtBox.resources
+C:\Users\Panayiotis\Documents\Visual Studio 2012\Projects\StarObject\StarObject\obj\Debug\StarObject.MakeFrame.resources
+C:\Users\Panayiotis\Documents\Visual Studio 2012\Projects\StarObject\StarObject\obj\Debug\StarObject.MakeObject.resources
+C:\Users\Panayiotis\Documents\Visual Studio 2012\Projects\StarObject\StarObject\obj\Debug\StarObject.HelpFrame.resources
+C:\Users\Panayiotis\Documents\Visual Studio 2012\Projects\StarObject\StarObject\obj\Debug\StarObject.HelpObject.resources

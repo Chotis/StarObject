@@ -1,0 +1,21 @@
+{
+  "objectName" : "aaaaa",
+  "description" : "aaaa",
+  "shortdescription" : "aaaaa",
+  "race" : "Human",
+  "dropItem" : "aaaaaa",
+  "category" : "decorative",
+ 
+  "orientations" : [
+    {
+      "image" : "index.png:{color}.{frame}",
+      "imagePosition" : [5, 5],
+      "frames" : 5,
+      "animationCycle" : 1.0,
+ 
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+ 
+    }
+  ]
+ }
