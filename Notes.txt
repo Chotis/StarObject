@@ -1,0 +1,9 @@
+StarObject is windows only, for now.
+
+If StarObject doesn't start you may need
+to install .Net 4.0.
+
+If you find any bugs or want to  suggest any new features 
+please contact me at panoly5@gmail.com
+
+-Panayiotis
